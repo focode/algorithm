@@ -12,3 +12,9 @@ Go to Java Program UiltimateSolution and replace "/home/sony/workspace_neon/Gord
 run mvn clean install
 
 and then run the main java program "UltimateSolution.java" by right clicking and choosing run as Java Application
+
+On the console/command prompt it will flash a message "Enter a time:"
+
+enter any numeric integer
+
+it will then display satisfaction.
