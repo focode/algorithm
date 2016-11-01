@@ -7,6 +7,8 @@ Here is the assignment:
 [amount of satisfaction from dish 2][time taken for dish 2]
 
 Import this project in eclipse as exsiting maven project
+Go to Java Program UiltimateSolution and replace "/home/sony/workspace_neon/Gorden/src/tech/data.txt" with the location of yourdata file.
+
 run mvn clean install
 
 and then run the main java program "UltimateSolution.java" by right clicking and choosing run as Java Application
